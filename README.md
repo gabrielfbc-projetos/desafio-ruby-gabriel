@@ -8,6 +8,8 @@ Cucumber ≥ 3
 
 Selenium ≥ 3.142
 
+RSpec
+
 Chrome e chromedriver na última versão estável
 
 ## Instalação e Execução
