@@ -3,8 +3,11 @@
 ## Stack
 
 Ruby ≥ 2.6
+
 Cucumber ≥ 3
+
 Selenium ≥ 3.142
+
 Chrome e chromedriver na última versão estável
 
 ## Instalação e Execução
